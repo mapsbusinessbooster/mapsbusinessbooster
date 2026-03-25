@@ -50,7 +50,7 @@ We work with:
 
 ## 👤 Founder
 
-Founded by **Jaibhagwan Jindal**
+Founded by [**Jaibhagwan Jindal**](https://jaibhagwanjindal.me)
 Frontend Developer & Digital Growth Specialist
 
 ---
